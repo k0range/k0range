@@ -1,16 +1,17 @@
-### Hi there 👋
+# 👋 Hi there, I am K-Orange! 
+Hi! I am **K-Orange**, and I live in Japan. 🇯🇵
 
-<!--
-**korange-pg/korange-pg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am 11 years old.
 
-Here are some ideas to get you started:
+I love Linux and currently use Ubuntu. 🐧
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I can speak English a little.
+
+I'm learning Linux and Open Source Development and other.
+
+Nice to meet you!
+
+## 🔗 Links
+ - [Scratch](https://scratch.mit.edu/users/K-Orange)
+ - [GitHub](https://github.com/korange-pg)
+ - [Launchpad](https://launchpad.net/~korange)
