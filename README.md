@@ -1,7 +1,7 @@
 # 👋 Hi there, I am K-Orange! 
-Hi! I am **K-Orange**, and I live in Japan. 🇯🇵
+Hi! I'm **K-Orange**, and I live in Japan. 🇯🇵
 
-I am 11 years old.
+I'm 11 years old.
 
 I love Linux and currently use Ubuntu. 🐧
 
