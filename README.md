@@ -1,7 +1,7 @@
 # 👋 Hi there, I am K-Orange! 
 Hi! I'm **K-Orange**, and I live in Japan. 🇯🇵
 
-I'm 11 years old.
+I'm 12 years old.
 
 I can speak English a little.
 
