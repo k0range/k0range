@@ -1,17 +1,12 @@
-# 👋 Hi there, I am K-Orange! 
-Hi! I'm **K-Orange**, and I live in Japan. 🇯🇵
+<a href="https://github.com/k0range" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=k0range&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" align=right /></a>
 
-I'm 12 years old.
+Hi, I am Korange👋
+========================
 
-I can speak English a little.
+* 🌍  I'm based in Japan
+* 🖥️  See my website at [https://korange.work](http://korange.work)
+* 📧  You can contact me at [hi@korange.work](mailto:hi@korange.work)
+* 🚀  I'm currently working on [ideaNote](http://ideanoteapp.com/)
+* 🧠  I'm learning Vue & JavaScript
+* 🤝  I'm open to collaborating on Misskey
 
-I'm learning about Cyber Security and Open Source Development and other.
-
-Nice to meet you!
-
-## 🌍 My Sites
- - [Rickroll Detector](https://rick.korange.work) (currently down)
-
-## 🔗 Links
- - [Scratch](https://scratch.mit.edu/users/K-Orange)
- - [Launchpad](https://launchpad.net/~korange)
