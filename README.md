@@ -1,4 +1,4 @@
-<a href="https://github.com/k0range" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=k0range&langs_count=10&title_color=0891b2&text_color=ffffff&hide_border=true&locale=en" alt="Top Languages" align=right /></a>
+<a href="https://github.com/k0range" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=k0range&langs_count=10&hide_border=true&locale=en" alt="Top Languages" align=right /></a>
 
 Hi, I am Korange👋
 ========================
